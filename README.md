@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Perez-Thomas
-- 👀 I’m interested in Front End Web Development
+- 👀 I’m a Front End Web Developer
 - 🌱 Javascript & React
 - 💞️ I’m looking to collaborate on any projects that help students learn.
 - 📫 If you'd like to reach me email me at thomas.v.perez@gmail.com
