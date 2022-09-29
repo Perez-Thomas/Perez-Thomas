@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Perez-Thomas
-- 👀 I’m a Front End Web Developer
-- 🌱 Javascript & React
-- 💞️ I’m looking to collaborate on any projects that help students learn.
-- 📫 If you'd like to reach me email me at thomas.v.perez@gmail.com
+- 👋🏼 Hi, I’m Thomas Perez
+- 👨🏻‍💻 A Front-End Web Developer
+- 💻 Focusing mainly on HTML, CSS, Javascript, and React
+- 📧 If you'd like to reach me email me at thomas.v.perez@gmail.com
